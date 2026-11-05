@@ -1,6 +1,7 @@
 ## Wielka Ankieta Branży Data - raport Power BI
 
 Interaktywny raport na podstawie ankiety, przeprowadzonej wsród osób pracujących w branży data.
+W tym raporcie skupiam się na informacjach ogólnych o ankietowanych oraz bardziej szczegółowo analizuję chęć zmiany pracy i jej powody.
 
 ## Przegląd - dashboardy
 
