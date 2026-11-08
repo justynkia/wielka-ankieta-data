@@ -13,6 +13,11 @@ W tym raporcie skupiam się na informacjach ogólnych o ankietowanych oraz bardz
 - Informacje na temat ankietowanych: stanowisko, lata doświadczenia, seniority, wykształcenie, średnia ocena dotycząca work-life balance, średnie zadowolenie z pracy,
 - Chęć zmiany pracy (deklaruje 50,17%) i jej powody. Najczęściej wymienianym powodem są niskie zarobki (60,4%).
    - Szczegóły dotyczące odczuć względem wynagrodzenia, przybliżenie danych o podwyżkach i systemie premiowym.
+## Przegląd - interakcje
+
+![Interakcje - ankietowani](images/interakcje_ankietowani.gif)
+
+![Interakcje - zmiana pracy](images/interakcje_zmiana_pracy.gif)
 
 ## Dane i narzędzia
 - Źródło danych: Crappy Data Club, Wyzwanie: Wielka Ankieta Branży Data
@@ -22,7 +27,7 @@ W tym raporcie skupiam się na informacjach ogólnych o ankietowanych oraz bardz
 ## Zawartość repozytorium
 - `[ankieta_data_info_zmiana_pracy].pbix` – raport (do otwarcia potrzebny darmowy Power BI Desktop, Windows)
 - `[queries_ankieta].sql` – zapytania przygotowujące dane
-- `images/` – zrzuty ekranu raportu, zrzuty ekranu w pdf
+- `images/` – zrzuty ekranu raportu, zrzuty ekranu w pdf, interakcje w raporcie w formacie gif
 
 ## Autorka
 Justyna Karczmarz, [https://www.linkedin.com/in/justyna-karczmarz-51ab06446/]
